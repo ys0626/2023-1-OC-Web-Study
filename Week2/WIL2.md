@@ -1,1 +1,24 @@
-[Week 2 notion link](https://therapeutic-donut-9e2.notion.site/GDSC-2-cb1d0111da9f4e80908b9b1e5f902e5b, "go link")
+외부 링크: <https://therapeutic-donut-9e2.notion.site/GDSC-2-cb1d0111da9f4e80908b9b1e5f902e5b>
+# ****GDSC 기초 웹 스터디 2주차 과제****
+
+# git add란?
+
+  add란 staging 영역에 변화들을 쌓기 위한 명령어이다. staging area란 변화들을 모아 놓는 공간이다.
+
+# git commit이란?
+
+  위에서처럼 add로 staging area에 변화가 생겨 축적된 것들을 묶어서 한 번에 로컬로 옮기고 싶을 때 commit을 사용한다. 바로 commit을 함으로써 어떤 부분이 삭제 되었고 추가 되었는지 확인할 수 있다. 
+
+# git push란?
+
+  하지만 add와 commit을 한다고 github에 바로 전달되지는 않는다. 아직 로컬에만 남아있기 때문이다.
+
+ 그러므로 push를 해서 commit으로 남긴 것들을 전부 로컬 저장소에서 원격 저장소로 보낼 수 있다. git push <저장소명> <브랜치명> 을 인자로 받는다.
+
+# git pull과 petch의 차이는?
+
+  fetch는 원격 저장소에서 최신 데이터 정보를 확인하라는 명령을 준다. 원격 저장소에 변경사항이 있는지 “확인”만 하는 것이다. 로컬에 가져오지는 않는다.
+
+따라서 fetch는 변경 전후의 차이를 비교할 때 용이하다. 로컬에 저장하지 않은 채 확인이 가능하므로 확인을 하고 가져온 내용을 추가할지 말지 결정할 수 있다.
+
+  하지만 pull은 변경된 데이터를 확인하고 최신 데이터를 복사해 로컬 git으로 바로 가져온다. 그렇기 때문에 기존 내용과 맞지 않아 충돌이 일어날 수도 있다.
