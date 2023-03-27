@@ -1,1 +1,1 @@
-[GDSC 기초 웹 스터디 2주차 과제](https://c11.kr/1cc9t, "go link")
+[Week 2 notion link](https://c11.kr/1cc9t, "go link")
