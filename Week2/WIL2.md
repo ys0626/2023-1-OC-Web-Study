@@ -1,1 +1,1 @@
-[Week 2 notion link](https://therapeutic-donut-9e2.notion.site/GDSC-2-cb1d0111da9f4e80908b9b1e5f902e5b, "go link")
+[Week 2 notion link](https://www.notion.so/GDSC-2-cb1d0111da9f4e80908b9b1e5f902e5b?pvs=4, "go link")
