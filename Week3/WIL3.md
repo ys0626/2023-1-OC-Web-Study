@@ -1,4 +1,4 @@
-외부 링크: [GDSC 기초 웹 스터디 3주차 과제](https://therapeutic-donut-9e2.notion.site/GDSC-3-ff89a4bf7cd449019d70d9c63278b5c0, "WIL3 notion link")
+외부 링크: https://therapeutic-donut-9e2.notion.site/GDSC-3-ff89a4bf7cd449019d70d9c63278b5c0
 
 # GDSC 기초 웹 스터디 3주차 과제
 
