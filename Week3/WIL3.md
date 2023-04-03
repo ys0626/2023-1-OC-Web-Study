@@ -1,1 +1,1 @@
-ΏάΊΞ ΈµΕ©: <https://therapeutic-donut-9e2.notion.site/GDSC-3-ff89a4bf7cd449019d70d9c63278b5c0>
+μ™Έλ¶€ λ§ν¬: <https://therapeutic-donut-9e2.notion.site/GDSC-3-ff89a4bf7cd449019d70d9c63278b5c0>
