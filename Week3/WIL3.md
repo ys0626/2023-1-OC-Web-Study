@@ -1,0 +1,1 @@
+외부 링크: <https://therapeutic-donut-9e2.notion.site/GDSC-3-ff89a4bf7cd449019d70d9c63278b5c0>
