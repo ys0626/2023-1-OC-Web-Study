@@ -1,4 +1,4 @@
-외부 링크: <https://therapeutic-donut-9e2.notion.site/GDSC-2-cb1d0111da9f4e80908b9b1e5f902e5b>
+외부 링크: <https://ys0626.notion.site/GDSC-2-cb1d0111da9f4e80908b9b1e5f902e5b>
 # ****GDSC 기초 웹 스터디 2주차 과제****
 
 # git add란?
