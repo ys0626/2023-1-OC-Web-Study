@@ -1,4 +1,4 @@
-외부 링크: <https://therapeutic-donut-9e2.notion.site/GDSC-2-cb1d0111da9f4e80908b9b1e5f902e5b>
+외부 링크: <https://ys0626.notion.site/GDSC-2-cb1d0111da9f4e80908b9b1e5f902e5b>
 # ****GDSC 기초 웹 스터디 2주차 과제****
 
 # git add란?
@@ -7,7 +7,7 @@
 
 # git commit이란?
 
-  위에서처럼 add로 staging area에 변화가 생겨 축적된 것들을 묶어서 한 번에 로컬로 옮기고 싶을 때 commit을 사용한다. 바로 commit을 함으로써 어떤 부분이 삭제 되었고 추가 되었는지 확인할 수 있다. 
+  위에서처럼 add로 staging area에 변화가 생겨 축적된 것들을 묶어서 한 번에 로컬로 옮기고 싶을 때 commit을 사용하면 된다. 바로 commit을 함으로써 어떤 부분이 삭제 되었고 추가 되었는지 확인할 수 있다. 
 
 # git push란?
 
